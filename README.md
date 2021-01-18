@@ -7,6 +7,6 @@
 1. 番号付き
 1. リスト
 
-[作成中のシステム][https://github.com/peechan/IoT2020/blob/main/EnvSensor.md]
+[作成中のシステム](https://github.com/peechan/IoT2020/blob/main/EnvSensor.md)
 
 ##  md参考 https://github.com/tchapi/markdown-cheatsheet
